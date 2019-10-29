@@ -1,3 +1,5 @@
 print("hello")
 print("bye")
-print("testing")
+print("test")
+
+print("yes")
